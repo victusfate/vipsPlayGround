@@ -1,0 +1,1 @@
+llvm-g++ -Wall -o try -g try.cc `pkg-config vipsCC-7.20 --cflags --libs`
